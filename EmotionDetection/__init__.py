@@ -1,3 +1,3 @@
-# Package for EmotionDetection 
-
-pip install Flask  
+"""
+EmotionDetection package.
+"""
